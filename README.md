@@ -1,8 +1,8 @@
-# Webpack 3 + Bootstrap 4 beta + Font Awesome Pro 5  example tutorial 
+# Webpack 3 + Bootstrap 4 beta SASS + Font Awesome Pro 5 SASS + d3js  example tutorial 
 
 
 
-# Try out
+# run:
 
 ```
 cd front-app
